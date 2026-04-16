@@ -6,11 +6,11 @@
 
 **Cita-cita:**Pengusaha
 
-##Tentang Saya
+## Tentang Saya
 
 Halo! saya sedang belajar pemrograman dan ini adalah repository pertama saya di GitHub. Saya tertarik dengan dunia teknologi dan ingin terus belajar hal baru.
 
-##Hobi 
+## Hobi 
 
 -main hp
 
